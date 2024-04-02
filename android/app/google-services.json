@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "523124466650",
+    "project_id": "my-listdrug-flutter-312e4",
+    "storage_bucket": "my-listdrug-flutter-312e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523124466650:android:3b718ad3d0c198ab9d96e3",
+        "android_client_info": {
+          "package_name": "com.example.test5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwTpv01GKgKFb61RKUbwW8COn00psHL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523124466650:android:0595829e2cdc7eac9d96e3",
+        "android_client_info": {
+          "package_name": "com.example.testt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwTpv01GKgKFb61RKUbwW8COn00psHL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
